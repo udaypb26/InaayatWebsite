@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'alphabetizedcassettetapes';
+	src: url('./alphabetizedcassettetapes.eot');
+	src: local('alphabetizedcassettetapes'), url('./alphabetizedcassettetapes.woff') format('woff'), url('./alphabetizedcassettetapes.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_62169">Text with this font applied</p> */
+.fontsforweb_fontid_62169 {
+	font-family: 'alphabetizedcassettetapes' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: blog-header;
+    src: url(Condiment-Regular.ttf);
+}
+
+p {
+    font-family: blog-header;
+}

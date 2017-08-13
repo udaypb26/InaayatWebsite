@@ -1,0 +1,9 @@
+@font-face {
+    font-family: blog-body;
+    src: url(DawningofaNewDay.ttf);
+}
+
+p{
+    font-family: blog-body;
+}
+

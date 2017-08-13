@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+#circle-shape-example { 
+  font-family: Open Sans, sans-serif; 
+  
+  padding-left: 30em;
+  padding-top: 1em;
+  
+}
+#circle-shape-example a:hover{
+	color:yellow;
+	
+	
+}
+#circle-shape-example h2 { 
+  line-height: 0.5; 
+  font-size: 50px;
+}
+#circle-shape-example .curve { 
+  width: 33%; height: auto;
+  min-width: 150px;
+  float: left;
+  margin-right:2rem; 
+  border-radius: 50%;
+  -webkit-shape-outside:circle();
+  shape-outside:circle();
+}
